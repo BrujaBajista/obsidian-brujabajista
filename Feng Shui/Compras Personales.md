@@ -9,3 +9,5 @@
 - [ ] Lámpara Sillón
 - [ ] Pantallas Luces techo 
 - [ ] Organizador de escritorio
+
+`--- (Editado desde la Mac el 27/01) ---`.
