@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "de19e4779a78371a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d346382bc71734c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5dacc0309152fa1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "brujabajista/Lectura General/Lectura Oriental.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lectura Oriental"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "475f19cab867c565",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3085ee549582234a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "dea42b7018a0615a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "b2fcc53223632c2f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "2407270442835109",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "0c7c1e41c06307ca",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d6c01550c5b61284",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7d26c5b483868c66",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "brujabajista/Tokens/Github.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "ec25e26c226a3315",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "brujabajista/Tokens/Github.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "84c273b23786305a",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "brujabajista/Tokens/Github.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "5dacc0309152fa1a",
+  "lastOpenFiles": [
+    "brujabajista/Tokens/Github.md",
+    "brujabajista/Tokens",
+    "brujabajista/Musica/Instrumentos.md",
+    "brujabajista/Musica/Compras.md",
+    "brujabajista/Musica",
+    "brujabajista/Feng Shui/Compras Personales.md",
+    "brujabajista/Feng Shui",
+    "brujabajista/Trabajo/Horas Laborales.md",
+    "brujabajista/Trabajo",
+    "brujabajista/Data",
+    "brujabajista/Games/Genshin Impact.md",
+    "brujabajista/Games",
+    "brujabajista/Lectura General/Lectura Oriental.md",
+    "brujabajista/Lectura General",
+    "brujabajista"
+  ]
+}

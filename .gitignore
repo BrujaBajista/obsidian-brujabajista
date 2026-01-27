@@ -1,0 +1,6 @@
+.trash/
+Tokens/
+Secrets/
+.env
+.obsidian/cache/
+.obsidian/workspace.json
