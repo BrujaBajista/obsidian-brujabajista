@@ -11,14 +11,10 @@
             "id": "5dacc0309152fa1a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "brujabajista/Lectura General/Lectura Oriental.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lectura Oriental"
+              "title": "New tab"
             }
           }
         ]
