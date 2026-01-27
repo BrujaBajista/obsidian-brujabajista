@@ -11,10 +11,14 @@
             "id": "5dacc0309152fa1a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Feng Shui/Compras Personales.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Compras Personales"
             }
           }
         ]
