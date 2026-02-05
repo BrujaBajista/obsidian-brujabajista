@@ -1,12 +1,14 @@
 #materialgirl 
 
 - [ ] Mueble micro
-- [ ] Alfombra sillon
 - [ ] Gabinete y Partes
 - [ ] Tele
 - [ ] Iphone
-- [ ] Soporte Tele
+- [x] Soporte Tele
 - [ ] Lámpara Sillón
 - [ ] Pantallas Luces techo 
 - [ ] Organizador de escritorio
+- [ ] Aplique baño
+- [ ] Pintura techo baño
+- [ ] Almohadas sillon
 
