@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trabajo/Horas Laborales.md",
+                "file": "Passwords.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Horas Laborales"
+              "title": "Passwords"
             }
           }
         ]
@@ -170,8 +170,8 @@
   },
   "active": "5dacc0309152fa1a",
   "lastOpenFiles": [
-    "Feng Shui/Compras Personales.md",
     "Trabajo/Horas Laborales.md",
+    "Feng Shui/Compras Personales.md",
     "Passwords.md",
     "Lectura General/Lectura Oriental.md",
     "brujabajista/Tokens/Github.md",
