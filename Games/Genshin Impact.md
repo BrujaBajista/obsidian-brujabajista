@@ -4,13 +4,13 @@
 
 - [ ] **Alhaitham** - *Ouni (Children of the Whales)*
 
-- [ ] **Amber** - *Lykos (Children of the Whales)*
+- [x] **Amber** - *Lykos (Children of the Whales)*
 
 - [ ] **Arataki Itto** - *Opening Resonance (Soul Eater)*
 
 - [ ] **Baizhu** - *Dragunov (Radiant)*
 
-- [ ] **Benet** - *Akaashi Keiji (Haikyu)*
+- [x] **Benet** - *Akaashi Keiji (Haikyu)*
 
 - [ ] **Candace** - *Ino Yamanaka (Naruto)*
 
