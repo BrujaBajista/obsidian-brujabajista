@@ -102,7 +102,7 @@ Yatamomo harada?
 💮***Mangas a Completar:***
 --------------------------------------------------------------------
 
-Un extraño en primavera 5
+Un extraño en primavera 5 españa
 Goodbye eri
 Chainsaw 13,14,15,16,17,18,19,20,21,22
 
