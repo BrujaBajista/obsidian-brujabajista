@@ -60,6 +60,8 @@
 
 - [ ] **Tartaglia** - *Bokuto Kotaro (Haikyu)*
 
+- [ ] **Varka** -  *Hiromi Higuruma (Jujutsu Kaisen)*  
+
 - [x] **Venti** - *Hinata Shoyo (Haikyu)*
 
 - [ ] **Scaramouche** - *Natsu Dragneel (Fairy Tail)*
