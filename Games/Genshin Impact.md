@@ -58,7 +58,7 @@
 
 - [ ] **Skirk** - *Mavis Vermillion (Fairy Tail)*
 
-- [ ] **Tartaglia** - *Bokuto Kotaro (Haikyu)*
+- [ ] **Tartaglia** - *Bokuto Kotaro (Haikyu)* - *Hajime Kashimo (Jujutsu Kaisen)*
 
 - [ ] **Varka** -  *Hiromi Higuruma (Jujutsu Kaisen)*  
 
