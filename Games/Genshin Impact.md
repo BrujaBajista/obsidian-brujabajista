@@ -44,6 +44,8 @@
 
 - [ ] **Lan** **Yan** - *Momo Ayase (Dandadan)*
 
+- [ ] **Lauma** *- Medusa (Soul Eater)*
+
 - [ ] **Layla** - *Ebisu (Dorohedoro)*
 
 - [ ] **Mavuika** - *Maki Zenin (Jujutsu Kaisen)*
