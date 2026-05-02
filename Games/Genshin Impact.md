@@ -52,6 +52,8 @@
 
 - [ ] **Navia** - *Yui Hirasawa (K-On!)*
 
+- [ ] **Nefer** - *Vanessa Enoteca (Black Clover)*
+
 - [ ] **Neuvillette** - *Levi Ackerman (Attack on Titan)*
 
 - [x] **Ningguang** - *Erza Scarlet (Fairy Tail)*
