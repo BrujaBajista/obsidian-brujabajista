@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Games/Genshin Impact.md",
+                "file": "Lectura General/Lectura Oriental.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Genshin Impact"
+              "title": "Lectura Oriental"
             }
           }
         ]
@@ -170,9 +170,9 @@
   },
   "active": "5dacc0309152fa1a",
   "lastOpenFiles": [
+    "Games/Genshin Impact.md",
     "Lectura General/Lectura Oriental.md",
     "Trabajo/Horas Laborales.md",
-    "Games/Genshin Impact.md",
     "Passwords.md",
     "Feng Shui/Compras Personales.md",
     "brujabajista/Tokens/Github.md",
