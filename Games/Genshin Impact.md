@@ -38,7 +38,7 @@
 
 - [ ] **Kaedehara** **Kazuha** - *Mahito (Jujutsu Kaisen)*
 
-- [ ] **Kaveh** - *Megumi Fushiguro (Jujutsu Kaisen)*
+- [x] **Kaveh** - *Megumi Fushiguro (Jujutsu Kaisen)*
 
 - [ ] **Kujou Sara** - *Nobara Kugisaki (Jujutsu Kaisen)*
 
