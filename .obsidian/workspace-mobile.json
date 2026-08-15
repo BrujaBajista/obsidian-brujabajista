@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data/Papá.md",
+                "file": "Lectura General/Lectura Oriental.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Papá"
+              "title": "Lectura Oriental"
             }
           }
         ],
@@ -185,8 +185,8 @@
   },
   "active": "e03c369466f09f21",
   "lastOpenFiles": [
-    "Feng Shui/Compras Personales.md",
     "Data/Papá.md",
+    "Feng Shui/Compras Personales.md",
     "Games/Genshin Impact.md",
     "Lectura General/Lectura Oriental.md",
     "Trabajo/Horas Laborales.md",
