@@ -1,1 +1,0 @@
-Colecciona cartas que se encuentra en la basura, una mucama que le cuenta a su madre como le fue

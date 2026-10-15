@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectura General/Lectura Oriental.md",
+                "file": "Data/Pienso o Siento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lectura Oriental"
+              "title": "Pienso o Siento"
             }
           }
         ],
@@ -52,7 +52,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
           "title": "Explorador de archivos"
@@ -185,10 +187,10 @@
   },
   "active": "e03c369466f09f21",
   "lastOpenFiles": [
-    "Data/Papá.md",
+    "Lectura General/Lectura Oriental.md",
+    "Data/Pienso o Siento.md",
     "Feng Shui/Compras Personales.md",
     "Games/Genshin Impact.md",
-    "Lectura General/Lectura Oriental.md",
     "Trabajo/Horas Laborales.md",
     "Passwords.md",
     "brujabajista/Tokens/Github.md",
