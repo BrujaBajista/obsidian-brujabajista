@@ -41,6 +41,7 @@
 - [x] **Kaveh** - *Megumi Fushiguro (Jujutsu Kaisen)*
 
 - [ ] **Kujou Sara** - *Nobara Kugisaki (Jujutsu Kaisen)*
+- [ ] **Kuki Shinobu** - *Sakura Haruno (Naruto)*
 
 - [ ] **Lan** **Yan** - *Momo Ayase (Dandadan)*
 

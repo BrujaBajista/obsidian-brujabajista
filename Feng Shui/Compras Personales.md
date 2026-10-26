@@ -6,9 +6,9 @@
 - [ ] Iphone
 - [x] Soporte Tele
 - [ ] Lámpara Sillón
-- [ ] Pantallas Luces techo 
-- [ ] Organizador de escritorio
+- [x] Pantallas Luces techo 
+- [x] Organizador de escritorio
 - [ ] Aplique baño
 - [ ] Pintura techo baño
 - [ ] Almohadas sillon
-
+- [ ] Mesa Ratona Japonesa
