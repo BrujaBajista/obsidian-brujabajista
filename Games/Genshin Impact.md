@@ -24,7 +24,7 @@
 
 - [ ] **Cyno** - *Kōshi Sugawara (Haikyu) - Haku (Sen to Chihiro no Kamikakushi)*
 
-- [ ] **Diluc** - *Ukyo Saionji (Dr. Stone)*
+- [x] **Diluc** - *Ukyo Saionji (Dr. Stone)*
 
 - [ ] **Diona** - *Pochita (Chainsaw Man)*
 
