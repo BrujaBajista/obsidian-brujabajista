@@ -34,6 +34,8 @@
 
 - [ ] **Flins** - *Satoru Gojō (Jujutsu Kaisen) - Tetsurō Kuroo (Haikyu)* 
 
+- [x] **Furina**
+
 - [x] **Kaeya Alberich** - Kiyoomi Sakusa (Haikyu) - Kiba Inuzuka (Naruto)
 
 - [ ] **Kaedehara** **Kazuha** - *Mahito (Jujutsu Kaisen)*
